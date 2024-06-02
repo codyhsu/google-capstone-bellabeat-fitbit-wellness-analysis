@@ -1,4 +1,5 @@
-# Capstone Project Google Data Analytic 
+# Optimizing Wellness with Data: A Python EDA Case Study 
+
 
 Author: Cody Hsu
 
